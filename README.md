@@ -1,7 +1,13 @@
 ShopList App - Pemrograman Mobile Pertemuan 6
+
 Nama & NIM
+
+
 Nama: [Adolf Mulia Simanjuntak]
+
 NIM: [213303040284]
+
+
 Expo Snack : https://snack.expo.dev/@adolf-simanjuntak/mytasklist-app
 
 📱 MyTaskList App
