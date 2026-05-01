@@ -45,7 +45,7 @@ Add Task + Delete Task (with animation-ready structure)	✅
 
 
 Screenshot app di HP fisik (wajib!) screenshot ⬇️
-<img width="575" height="1280" alt="image" src="https://github.com/user-attachments/assets/5c87393f-f5f5-4b87-851a-b28994e78512" />
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/5c87393f-f5f5-4b87-851a-b28994e78512" />
 
 Memisahkan yang mana saja yang masih aktif
 <img width="575" height="1280" alt="image" src="https://github.com/user-attachments/assets/79d88a54-284a-452d-8a25-6073ffde81ff" />
