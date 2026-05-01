@@ -52,16 +52,16 @@ Add Task + Delete Task (with animation-ready structure)	✅
 
 
 Screenshot app di HP fisik (wajib!) screenshot ⬇️
-<img width="300" height="350" alt="image" src="https://github.com/user-attachments/assets/5c87393f-f5f5-4b87-851a-b28994e78512" />
+<img width="280" height="420" alt="image" src="https://github.com/user-attachments/assets/5c87393f-f5f5-4b87-851a-b28994e78512" />
 
 Memisahkan yang mana saja yang masih aktif
-<img width="300" height="350" alt="image" src="https://github.com/user-attachments/assets/79d88a54-284a-452d-8a25-6073ffde81ff" />
+<img width="280" height="420" alt="image" src="https://github.com/user-attachments/assets/79d88a54-284a-452d-8a25-6073ffde81ff" />
 
 Memisahkan yang mana saa yang sudah selesai 
-<img width="300" height="350" alt="image" src="https://github.com/user-attachments/assets/dcb3ec0a-95c1-49f3-a5d5-2570a9526903" />
+<img width="280" height="420" alt="image" src="https://github.com/user-attachments/assets/dcb3ec0a-95c1-49f3-a5d5-2570a9526903" />
 
 mendemokan bahwa tidak bisa menambahkan jika kosong
-<img width="300" height="350" alt="image" src="https://github.com/user-attachments/assets/e6b09c00-f497-496f-80ed-30ed704554a9" />
+<img width="280" height="420" alt="image" src="https://github.com/user-attachments/assets/e6b09c00-f497-496f-80ed-30ed704554a9" />
 
 
 
