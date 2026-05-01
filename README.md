@@ -14,6 +14,8 @@ Expo Snack : https://snack.expo.dev/@adolf-simanjuntak/mytasklist-app
 A modern, feature-rich task management app built with React Native (Expo).
 Dark mode • Glassmorphism • Priority tasks • Smart filtering
 
+
+
 ✨ Features
 ✅ Core Requirements (P01–P06)
 
@@ -35,12 +37,13 @@ Add Task + Delete Task (with animation-ready structure)	✅
 
 
 
+
 🎯 Bonus Features
 ✅ Mark as Done — Checkbox with green styling + strikethrough text
 
 ✅ Smart Counter — Shows "X completed / Y total"
 
-✅ Priority Levels — High (🔴), Medium (🟠), Low (🔵) with color badges
+✅ Priority Levels \
 
 ✅ 3-Way Filter — All / Active / Completed
 
