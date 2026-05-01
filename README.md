@@ -1,4 +1,4 @@
-ShopList App - Pemrograman Mobile Pertemuan 6
+ShopList App - Pemrograman Mobile Pertemuan 7
 
 Nama & NIM
 
