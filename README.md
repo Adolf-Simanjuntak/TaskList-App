@@ -1,4 +1,4 @@
-ShopList App - Pemrograman Mobile Pertemuan 7
+TaskList - Pemrograman Mobile Pertemuan 7
 
 Nama & NIM
 
