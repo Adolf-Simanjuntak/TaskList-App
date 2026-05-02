@@ -16,24 +16,18 @@ Dark mode • Glassmorphism • Priority tasks • Smart filtering
 
 
 
-✨ Features
-✅ Core Requirements (P01–P06)
+## ✨ Features
 
-Feature	Status
-
-Expo Setup (physical device via Expo Go)	✅
-
-Core Components (View, Text, TextInput, TouchableOpacity)	✅
-
-StyleSheet & Flexbox Layout	✅
-
-useState State Management	✅
-
-Form Input + Validation (empty alert)	✅
-
-FlatList with ListEmptyComponent	✅
-
-Add Task + Delete Task (with animation-ready structure)	✅
+### ✅ Core Requirements (P01–P06)
+| Feature | Status |
+|---------|--------|
+| Expo Setup (physical device via Expo Go) | ✅ |
+| Core Components (View, Text, TextInput, TouchableOpacity) | ✅ |
+| StyleSheet & Flexbox Layout | ✅ |
+| useState State Management | ✅ |
+| Form Input + Validation (empty alert) | ✅ |
+| FlatList with ListEmptyComponent | ✅ |
+| Add Task + Delete Task (with animation-ready structure) | ✅ |
 
 
 
