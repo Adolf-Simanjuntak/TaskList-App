@@ -34,11 +34,17 @@ Dark mode • Glassmorphism • Priority tasks • Smart filtering
 
 🎯 Bonus Features
 ✅ Mark as Done — Checkbox with green styling + strikethrough text
+
 ✅ Smart Counter — Shows "X completed / Y total"
+
 ✅ Priority Levels \
+
 ✅ 3-Way Filter — All / Active / Completed
+
 ✅ Beautiful Empty State — Emoji + motivational message
+
 ✅ Modern UI — Glassmorphism cards, gradient background, neumorphic buttons
+
 ✅ Smooth Animations — Subtle shadows and opacity transitions
 
 
